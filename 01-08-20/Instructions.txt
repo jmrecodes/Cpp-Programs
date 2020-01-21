@@ -1,0 +1,9 @@
+2. AVERAGE
+	Sequence using recursive function
+
+	accept the no. of terms
+	
+	print the sequence
+
+3. 
+	convert decimal into corresponding binary form
